@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EmailToIM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="destinationSIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sip:user@domain.com</Value>
+    </Setting>
+    <Setting Name="emailSubjectKeyword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IFTTTIM</Value>
+    </Setting>
+    <Setting Name="sipAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sip:user@domain.com</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user@domain.com</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+    <Setting Name="IMToastMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">New IM from IFTTT</Value>
+    </Setting>
+    <Setting Name="emailIMAPClient" Type="System.String" Scope="User">
+      <Value Profile="(Default)">imap.domain.com</Value>
+    </Setting>
+    <Setting Name="emailUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user@domain.com</Value>
+    </Setting>
+    <Setting Name="emailPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
